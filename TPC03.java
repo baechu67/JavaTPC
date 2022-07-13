@@ -14,7 +14,7 @@ public class TPC03 {
         book = new Book();
         book.title = "Java";
         book.price = 15000;
-        book.company = "Hanbit Media";
+        book.company = "HanbitMedia";
         book.page = 700;
 
         System.out.println("-----책 정보 출력-----");
