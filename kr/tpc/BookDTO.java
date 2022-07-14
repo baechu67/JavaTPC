@@ -15,4 +15,11 @@ public class BookDTO {
     public BookDTO() {
         // 객체 생성 작업(내부적으로 기계어로 설계되어 있음)
     }
+
+    public BookDTO(String title, int price, String company, int page) {
+        this.title = title;
+        this.price = price;
+        this.company = company;
+        this.page = page;
+    }
 }
