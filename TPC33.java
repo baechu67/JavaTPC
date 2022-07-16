@@ -1,4 +1,4 @@
-import kr.inflearn.MyClass;
+import kr.inflearn.MyClass;     // 클래스 이름으로 외부 패키지의 클래스에 접근하려면 import 해야 한다.
 
 public class TPC33 {
     public static void main(String[] args) {
